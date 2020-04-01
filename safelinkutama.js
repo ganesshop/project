@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="https://lorongteori.blogspot.com/2020/03/successful-industrial-injury-claim-steps.html"}
-if(x=="2"){xxx="https://lorongteori.blogspot.com/2020/04/getting-quick-cash-for-your-structured.html"}
-if(x=="3"){xxx="https://lorongteori.blogspot.com/2020/04/how-to-get-quick-cash-for-your.html"}
-if(x=="4"){xxx="https://lorongteori.blogspot.com/2020/04/all-about-insurance-cccidents-and.html"}a_to_ve[i].href="https://lorongteori.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="successful-industrial-injury-claim-steps.html"}
+if(x=="2"){xxx="getting-quick-cash-for-your-structured.html"}
+if(x=="3"){xxx="how-to-get-quick-cash-for-your.html"}
+if(x=="4"){xxx="all-about-insurance-cccidents-and.html"}a_to_ve[i].href="https://lorongteori.blogspot.com/2020/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
