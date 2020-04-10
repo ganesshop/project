@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="successful-industrial-injury-claim-steps.html"}
+if(x=="1"){xxx="financial-security-through-structured.html"}
 if(x=="2"){xxx="getting-quick-cash-for-your-structured.html"}
 if(x=="3"){xxx="how-to-get-quick-cash-for-your.html"}
 if(x=="4"){xxx="all-about-insurance-cccidents-and.html"}a_to_ve[i].href="https://lorongteori.blogspot.com/2020/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
